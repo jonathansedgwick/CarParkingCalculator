@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">User Input Notes</string>
+    <string name="title_text">Parking Charges</string>
+    <string name="result_text">Estimated Charges</string>
+    <string name="calculate_button_text">Calculate</string>
+    <string-array name="lot_dropdown">
+        <item>Lot A</item>
+        <item>Lot B</item>
+        <item>Lot C</item>
+        <item>Lot D</item>
+    </string-array>
+</resources>
